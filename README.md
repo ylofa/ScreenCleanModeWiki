@@ -1,0 +1,2 @@
+# ScreenCleanModeWiki
+Screen Clean Mode
